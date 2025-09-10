@@ -11,3 +11,7 @@ mean_mpg
 plot(mtcars$wt, mtcars$mpg)
 
 #this is a comment
+
+#this code only exists on grace's branch at the moment.
+
+summary(mtcars)
